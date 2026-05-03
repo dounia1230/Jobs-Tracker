@@ -1,0 +1,16 @@
+apache-airflow==2.8.1
+apache-airflow-providers-postgres==5.10.0
+psycopg2-binary==2.9.9
+minio==7.2.5
+kafka-python==2.0.2
+beautifulsoup4==4.12.3
+requests==2.31.0
+lxml==5.1.0
+langdetect==1.0.9
+python-dateutil==2.9.0
+tenacity==8.2.3
+loguru==0.7.2
+pandas==2.2.0
+great-expectations==0.18.12
+fake-useragent==1.4.0
+scrapy==2.11.1
